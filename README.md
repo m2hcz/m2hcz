@@ -1,20 +1,23 @@
 # 👋 Hi, I’m **m2hcs**
 
-[![GitHub Followers](https://img.shields.io/github/followers/m2hcz?label=Follow\&style=social)](https://github.com/m2hcz) [![Twitter Follow](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)
+[![GitHub Followers](https://img.shields.io/github/followers/m2hcz?label=Follow\&style=social)](https://github.com/m2hcz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m2hcs-blue?style=social\&logo=linkedin)](https://www.linkedin.com/in/m2hcs)
+[![Email](https://img.shields.io/badge/Email-contact%40m2hczs.com-orange)](mailto:m2hczs@proton.me)
 
-✨ **Senior Offensive Security Engineer** & **Software Developer** with **8+ years** of experience.
+✨ **Senior Offensive Security Engineer** & **Software Developer** with **8+ years** of hands-on experience.
 
 ---
 
 ## 🔒 About Me
 
-I combine deep expertise in offensive security with a passion for coding and automation:
+I blend deep offensive-security expertise with a passion for clean code and automation:
 
-* 🎯 **Penetration Testing & Red Teaming**: Simulating adversarial attacks to uncover vulnerabilities.
-* 🔍 **Vulnerability Research**: Detailed analysis, exploit development, and responsible disclosure.
-* 🛠️ **Security Tool Development**: Building robust Python, Go, and Rust tools to streamline assessments.
-* ☁️ **Cloud & DevOps Security**: Securing AWS, Docker, Kubernetes, and infrastructure-as-code.
-* 💡 **Automation & CI/CD**: Designing pipelines in GitHub Actions, Jenkins, and GitLab CI for continuous security.
+* 🎯 **Penetration Testing & Red Teaming** – Emulating advanced adversaries to reveal and remediate real-world weaknesses.
+* 🔍 **Vulnerability Research & Exploit Development** – From meticulous root-cause analysis to crafting reliable PoCs and coordinated disclosure.
+* 🛠️ **Security Tooling** – Author of ReconMapper v2.0, ParamHunter-Pro, and tailored scripts in Python, Go, and Rust.
+* ☁️ **Cloud & DevOps Security** – Hardening AWS, Docker, Kubernetes, and Terraform-driven stacks.
+* 🔄 **Automation & CI/CD** – Orchestrating secure pipelines with GitHub Actions, Jenkins, and GitLab CI.
 
 ---
 
@@ -22,8 +25,8 @@ I combine deep expertise in offensive security with a passion for coding and aut
 
 | Domain                  | Tools & Technologies                                   |
 | ----------------------- | ------------------------------------------------------ |
-| **Web Security**        | Burp Suite, Linux Shells & ReconMapper v2.0              |
-| **Exploit Dev**         | Python, Rust & C/C++               |
+| **Web Security**        | Burp Suite, ReconMapper v2.0, Linux shells             |
+| **Exploit Dev**         | Python, Rust, C/C++                                    |
 | **Reverse Engineering** | Ghidra, IDA Pro, x64dbg                                |
 | **Infrastructure**      | AWS, Docker, Kubernetes, Terraform                     |
 | **Automation**          | Playwright, Selenium, GitHub Actions, Jenkins, Ansible |
@@ -38,14 +41,14 @@ I combine deep expertise in offensive security with a passion for coding and aut
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=m2hcz-Next.js-security-flaw-CVE-2025-29927--PoC-exploit&theme=dark" alt="Next.js PoC" />
   </a>
   <a href="https://github.com/m2hcz/WebApplicationMapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=WebApplicationMapper&theme=dark" alt="WebApp Mapper" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=WebApplicationMapper&theme=dark" alt="WebApplicationMapper" />
   </a>
   <a href="https://github.com/m2hcz/ParamHunter-Pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=ParamHunter-Pro&theme=dark" alt="ParamHunter-Pro" />
   </a>
 </div>
 
-> **🔗 See more**: [m2hcs GitHub](https://github.com/m2hcz?tab=repositories)
+> **🔗 Explore more projects** on my [GitHub profile](https://github.com/m2hcz?tab=repositories).
 
 ---
 
@@ -64,19 +67,21 @@ I combine deep expertise in offensive security with a passion for coding and aut
 <summary>Click to expand</summary>
 
 * **Languages:** Python, Go, Rust, JavaScript, Bash, C/C++
-* **Frameworks:** FastAPI, Flask, Django, Playwright, Selenium
-* **Security Tools:** Burp Suite, Linux Shells & ReconMapper v2.0(my tool)
-* **Cloud & Infra:** AWS, Azure, Docker, Kubernetes, Terraform
+* **Frameworks/Libraries:** FastAPI, Flask, Django, Playwright, Selenium
+* **Security Tooling:** Burp Suite, ReconMapper v2.0, custom Linux shells
+* **Cloud & Infrastructure:** AWS, Azure, Docker, Kubernetes, Terraform
 * **CI/CD & Automation:** GitHub Actions, Jenkins, GitLab CI, Ansible
 * **Reverse Engineering:** Ghidra, IDA Pro, x64dbg
-* **Data & Logging:** Elastic Stack, Splunk, SQLite
+* **Data & Observability:** Elastic Stack, Splunk, SQLite
 
 </details>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-[![Twitter](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)   [![Email](https://img.shields.io/badge/Email-contact%40m2hczs.com-orange)](mailto:m2hczs@proton.me)
+[![Twitter](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m2hcs-blue?style=social\&logo=linkedin)](https://www.linkedin.com/in/m2hcs)
+[![Email](https://img.shields.io/badge/Email-contact%40m2hczs.com-orange)](mailto:m2hczs@proton.me)
 
-> Feel free to reach out for collaborations, speaking engagements, or just a chat about security.
+> Open to collaborations, conference talks, or just a good security chat—drop a line!
