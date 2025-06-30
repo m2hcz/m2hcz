@@ -2,7 +2,6 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/m2hcz?label=Follow\&style=social)](https://github.com/m2hcz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m2hcs-blue?style=social\&logo=linkedin)](https://www.linkedin.com/in/m2hcs)
 [![Email](https://img.shields.io/badge/Email-contact%40m2hczs.com-orange)](mailto:m2hczs@proton.me)
 
 ✨ **Senior Offensive Security Engineer** & **Software Developer** with **8+ years** of hands-on experience.
@@ -81,7 +80,6 @@ I blend deep offensive-security expertise with a passion for clean code and auto
 ## 📫 Let’s Connect
 
 [![Twitter](https://img.shields.io/twitter/follow/inf0secc?style=social)](https://x.com/inf0secc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m2hcs-blue?style=social\&logo=linkedin)](https://www.linkedin.com/in/m2hcs)
 [![Email](https://img.shields.io/badge/Email-contact%40m2hczs.com-orange)](mailto:m2hczs@proton.me)
 
 > Open to collaborations, conference talks, or just a good security chat—drop a line!
