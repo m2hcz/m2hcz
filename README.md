@@ -34,8 +34,8 @@ I combine deep expertise in offensive security with a passion for coding and aut
 ## 📁 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/m2hcz/m2hcs-Next.js-security-flaw-CVE-2025-29927--PoC-export">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=m2hcz-Next.js-security-flaw-CVE-2025-29927--PoC-export&theme=dark" alt="Next.js PoC" />
+  <a href="https://github.com/m2hcz/m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=m2hcz-Next.js-security-flaw-CVE-2025-29927--PoC-exploit&theme=dark" alt="Next.js PoC" />
   </a>
   <a href="https://github.com/m2hcz/WebApplicationMapper">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=WebApplicationMapper&theme=dark" alt="WebApp Mapper" />
