@@ -65,7 +65,7 @@ I blend deep offensive-security expertise with a passion for clean code and auto
 <details>
 <summary>Click to expand</summary>
 
-* **Languages:** Python, Go, Rust, JavaScript, Bash, C/C++
+* **Languages:** Python, Rust, C/C++
 * **Frameworks/Libraries:** FastAPI, Flask, Django, Playwright, Selenium
 * **Security Tooling:** Burp Suite, ReconMapper v2.0, custom Linux shells
 * **Cloud & Infrastructure:** AWS, Azure, Docker, Kubernetes, Terraform
