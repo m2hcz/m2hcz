@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/twitter/follow/inf0secc?style=social" alt="Twitter Follow" />
   </a>
   <a href="mailto:m2hczs@proton.me">
-    <img src="https://img.shields.io/badge/Email-contact%40m2hczs.com-orange" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-m2hczs@proton.me-orange" alt="Email" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ I transform curiosity into exploits and complex problems into clean, maintainabl
     <img src="https://img.shields.io/twitter/follow/inf0secc?style=social" alt="Twitter" />
   </a>
   <a href="mailto:m2hczs@proton.me">
-    <img src="https://img.shields.io/badge/Email-contact%40m2hczs.com-orange" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-m2hczs@proton.me-orange" alt="Email" />
   </a>
 </p>
 
