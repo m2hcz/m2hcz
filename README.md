@@ -117,7 +117,7 @@ class OffensiveSecurityEngineer:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper&theme=tokyonight&border_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper-v2.0&theme=tokyonight&border_color=ff0000" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=paramhunter-pro&theme=tokyonight&border_color=ff0000" />
 </div>
 
