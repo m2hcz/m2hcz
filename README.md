@@ -84,7 +84,3 @@
 </p>
 
 > Open to collaborations, conference talks or just a good security chat—drop a line!
-
----
-
-*Last updated: <!-- {{DATE}} -->*
