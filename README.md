@@ -103,10 +103,10 @@ class OffensiveSecurityEngineer:
 
 <div align="center">
 
-| 🔴 **ReconMapper v2** | 🎯 **ParamHunter-Pro** | ⚡ **Custom Exploit Framework** |
+| 🔴 **ReconMapper v2** | 🎯 **ParamHunter-Pro** |
 |:---:|:---:|:---:|
-| Advanced web reconnaissance | Parameter discovery & analysis | Multi-stage payload delivery |
-| `Python` `Async` `Rich CLI` | `Rust` `Performance` `Accuracy` | `C++` `Stealth` `Persistence` |
+| Advanced web reconnaissance | Parameter discovery & analysis |
+| `Python` `Async` `Rich CLI` | `Rust` `Performance` `Accuracy` |
 
 </div>
 
