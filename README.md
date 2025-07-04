@@ -1,29 +1,3 @@
-<!-- Profile README – m2hcs -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper-v2.0&theme=tokyonight&border_color=ff0000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=paramhunter-pro&theme=tokyonight&border_color=ff0000" />
-</div>
-
----
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-| 🎯 **Offensive Security** | 🛡️ **Defense & Architecture** | 🏅 **Industry Recognition** |
-|:---:|:---:|:---:|
-| OSCP, OSEP, OSCE³ | CISSP, CCSP | CVE Discoveries |
-| CRTO, CRTE | AWS Security Specialty | Conference Speaker |
-| GXPN, GREM | CKS (Kubernetes Security) | Bug Bounty Hunter |
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**ze=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+m2hcs+%F0%9F%91%8B;Offensive+Security+Engineer;Vulnerability+Researcher;Red+Team+Operator" alt="Typing SVG" />
-</div>
-
 <h1 align="center">🔴 <strong>m2hcs</strong> 🔴</h1>
 
 <p align="center">
@@ -155,6 +129,19 @@ class OffensiveSecurityEngineer:
 </div>
 
 ---
+
+## 🏆 **Achievements & Certifications**
+
+<div align="center">
+
+| 🎯 **Offensive Security** | 🛡️ **Defense & Architecture** | 🏅 **Industry Recognition** |
+|:---:|:---:|:---:|
+| OSCP, OSEP, OSCE³ | CISSP, CCSP | CVE Discoveries |
+| CRTO, CRTE | AWS Security Specialty | Conference Speaker |
+| GXPN, GREM | CKS (Kubernetes Security) | Bug Bounty Hunter |
+
+</div>
+
 ---
 
 ## 🤝 **Let's Connect & Collaborate**
