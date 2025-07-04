@@ -111,7 +111,7 @@ class OffensiveSecurityEngineer:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper&theme=tokyonight&border_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper-v2.0&theme=tokyonight&border_color=ff0000" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=paramhunter-pro&theme=tokyonight&border_color=ff0000" />
 </div>
 
@@ -129,19 +129,6 @@ class OffensiveSecurityEngineer:
 </div>
 
 ---
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-| 🎯 **Offensive Security** | 🛡️ **Defense & Architecture** | 🏅 **Industry Recognition** |
-|:---:|:---:|:---:|
-| OSCP, OSEP, OSCE³ | CISSP, CCSP | CVE Discoveries |
-| CRTO, CRTE | AWS Security Specialty | Conference Speaker |
-| GXPN, GREM | CKS (Kubernetes Security) | Bug Bounty Hunter |
-
-</div>
-
 ---
 
 ## 🤝 **Let's Connect & Collaborate**
