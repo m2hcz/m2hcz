@@ -136,18 +136,6 @@ class OffensiveSecurityEngineer:
 
 ---
 
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-| 🎯 **Offensive Security** | 🛡️ **Defense & Architecture** | 🏅 **Industry Recognition** |
-|:---:|:---:|:---:|
-| OSCP, OSEP, OSCE³ | CISSP, CCSP | CVE Discoveries |
-| CRTO, CRTE | AWS Security Specialty | Conference Speaker |
-| GXPN, GREM | CKS (Kubernetes Security) | Bug Bounty Hunter |
-
-</div>
-
 ---
 
 ## 🤝 **Let's Connect & Collaborate**
