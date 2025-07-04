@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://github.com/m2hcz/ReconMapper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=recon-mapperv2.0&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper-v2.0&theme=tokyonight" />
   </a>
   <a href="https://github.com/m2hcz/ParamHunter-Pro">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=ParamHunter-Pro&theme=tokyonight" />
