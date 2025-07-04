@@ -54,7 +54,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/m2hcz/ReconMapper">
+  <a href="https://github.com/m2hcz/reconmapper-v2.0">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=reconmapper-v2.0&theme=tokyonight" />
   </a>
   <a href="https://github.com/m2hcz/ParamHunter-Pro">
