@@ -104,7 +104,7 @@ class OffensiveSecurityEngineer:
 <div align="center">
 
 | 🔴 **ReconMapper v2** | 🎯 **ParamHunter-Pro** |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | Advanced web reconnaissance | Parameter discovery & analysis |
 | `Python` `Async` `Rich CLI` | `Rust` `Performance` `Accuracy` |
 
@@ -115,7 +115,6 @@ class OffensiveSecurityEngineer:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2hcz&repo=paramhunter-pro&theme=tokyonight&border_color=ff0000" />
 </div>
 
----
 
 ## 📊 **GitHub Analytics**
 
