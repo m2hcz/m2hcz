@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">🔴 <strong>m2hcs</strong> 🔴</h1>
 <p align="center"><em>Senior Offensive Security Engineer | APT Emulation & Exploit Research</em></p>
 
