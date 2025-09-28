@@ -54,8 +54,6 @@ I operate at the edge of offensive security: mapping attack surfaces at scale, b
 
 * **ReconMapper** — distributed recon & signal ranking (endpoints, params, tech‑fingerprints)
 * **ParamHunter‑Pro** — parameter discovery, fuzz & mutation engine for auth‑z edge cases
-* **Auto‑Mapper (Node)** — blueprinting of web apps (routes, forms, anti‑CSRF, upload vectors)
-* **Cloud Lateral Kit** — metadata pivots, role chaining, signed requests, storage abuse probes
 
 > See pinned repositories for living code and PoCs. Most offensive artifacts are responsibly redacted or sanitized.
 
