@@ -2,7 +2,7 @@
 
 # m2hcs — Offensive Security & Vulnerability Research
 
-**APT Emulation • Vulnerability Research • Exploit Development • Red Team**
+**Vulnerability Research • Red Team**
 
 [![X](https://img.shields.io/badge/X-@inf0secc-111?logo=x\&logoColor=white)](https://x.com/inf0secc)
 [![GitHub](https://img.shields.io/badge/GitHub-m2hcz-111?logo=github\&logoColor=white)](https://github.com/m2hcz)
