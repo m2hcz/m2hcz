@@ -40,21 +40,7 @@ I operate at the edge of offensive security: mapping attack surfaces at scale, b
 * **Cloud Intrusions:** IAM misconfig chaining, metadata pivots, credential materialization, workload identity abuse, egress-safe exfil
 * **Evasion & OPSEC:** traffic shaping, domain/fronting, process/thread stealth, jitter budgets, sandbox/EDR friction reduction
 * **CI/CD & Supply‑Chain:** artifact poisoning, dependency confusion, cache/key leaks, runner isolation gaps, SLSA pressure-tests
-
-## Methodology (Concise Playbook)
-
-1. **Recon & Modeling:** threat surface inventory → candidate hypotheses → exploitability ranking
-2. **Weaponization:** minimal PoC → stability hardening → chain composition (pre‑auth → pivot → post‑auth)
-3. **Delivery & Action:** OPSEC‑sound delivery paths (DNS/front door/API) → precise objective‑based actions
-4. **Privilege & Pivot:** cred discovery, token replay/forging, path-constraint reasoning; lateral movement with least‑noise routes
-5. **Persistence & Cover:** ephemeral footholds, log/telemetry minimization, reversible footprints for clean rollbacks
-6. **Feedback:** debrief, detections, and resilient fixes; convert findings to repeatable guardrails
-
-## Tools & Selected Work
-
-* **ReconMapper** — distributed recon & signal ranking (endpoints, params, tech‑fingerprints)
-* **ParamHunter‑Pro** — parameter discovery, fuzz & mutation engine for auth‑z edge cases
-
+* 
 > See pinned repositories for living code and PoCs. Most offensive artifacts are responsibly redacted or sanitized.
 
 ## Research Interests (2025)
