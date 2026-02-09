@@ -1,126 +1,68 @@
 <div align="center">
 
-# m2hcs — Offensive Security & Vulnerability Research
+<img src="https://github.com/m2hcz.png" alt="avatar" width="100" height="100" style="border-radius:50%" />
 
-**Vulnerability Research • Red Team**
+### m2hcs
 
-[![X](https://img.shields.io/badge/X-@inf0secc-111?logo=x\&logoColor=white)](https://x.com/inf0secc)
-[![GitHub](https://img.shields.io/badge/GitHub-m2hcz-111?logo=github\&logoColor=white)](https://github.com/m2hcz)
-[![Proton](https://img.shields.io/badge/Email-m2hczs@proton.me-111?logo=protonmail\&logoColor=white)](mailto:m2hczs@proton.me)
-![views](https://komarev.com/ghpvc/?username=m2hcz\&style=for-the-badge\&color=1F6FEB)
+**Offensive Security · Vulnerability Research · Red Team**
 
-<img src="https://github.com/m2hcz.png" alt="avatar" width="112" height="112" style="border-radius:14px" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=1F6FEB&center=true&vCenter=true&width=720&lines=Offensive+Security+Engineer;APT+Emulation+%26+Threat+Modeling;Exploit+Research+%26+Chain+Development;Cloud+Red+Team+%7C+OPSEC+%26+Evasion" />
+[![Email](https://img.shields.io/badge/m2hczs@proton.me-0D0D0D?style=flat-square&logo=protonmail&logoColor=6D4AFF)](mailto:m2hczs@proton.me)
+[![X](https://img.shields.io/badge/@inf0secc-0D0D0D?style=flat-square&logo=x&logoColor=fff)](https://x.com/inf0secc)
+[![GitHub](https://img.shields.io/badge/m2hcz-0D0D0D?style=flat-square&logo=github&logoColor=fff)](https://github.com/m2hcz)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-  Offensive Security | Red Team | Exploit Development
-$ stack
-  Python • Rust • Go • C • Bash • Lua (Luau) • Node.js
-$ focus
-  APT emulation • vuln research • exploit chains • OPSEC & evasion
+Offensive security engineer focused on vulnerability research, exploit development, and adversary emulation. I map attack surfaces, build targeted exploit chains, and pressure-test systems under realistic threat conditions with disciplined OPSEC.
+
+### What I Do
+
+**Vulnerability Research** — Memory safety bugs (UAF, heap overflow), deserialization chains, auth bypass, SSRF→RCE escalation, protocol-level confusion. I find the bug, build the PoC, and write the fix.
+
+**Red Team & APT Emulation** — Scoped engagements with realistic objectives and constrained blast radius. Full kill chain from initial access to exfil, with purple-team feedback loops for detection engineering.
+
+**Cloud Intrusions** — IAM misconfig chaining, metadata service pivots, credential materialization, workload identity abuse, and egress-safe exfiltration across AWS/GCP/Azure.
+
+**Supply Chain & CI/CD** — Dependency confusion, artifact poisoning, runner isolation escapes, cache/secret leaks, SLSA pressure-tests against real pipelines.
+
+**Evasion & OPSEC** — Domain fronting, traffic shaping, process/thread stealth, jitter budgets, sandbox detection, EDR friction reduction.
+
+### Current Research `2025`
+
+```
+→ HTTP/2 & QUIC state machine anomalies in modern reverse proxies
+→ Deserialization bugs in polyglot microservice architectures
+→ Cloud identity boundary erosion (OIDC, workload identity, token exchange)
+→ Client-side supply chain attacks (WASM, NPM/PyPI) under CI pressure
 ```
 
-## About
+### Stack
 
-I operate at the edge of offensive security: mapping attack surfaces at scale, building targeted exploit chains, and emulating modern APT tradecraft with disciplined OPSEC. My work blends high-signal reconnaissance, bespoke tooling, and cloud-aware post-exploitation to turn theory into reproducible results.
+```
+Languages    Python · Rust · Go · C · Bash · Lua/Luau · TypeScript
+Infra        Linux · Docker · Kubernetes · Terraform · Cloudflare · GH Actions
+Tooling      Burp · mitmproxy · Frida · Ghidra · Radare2 · pwntools · Z3 · Semgrep
+Telemetry    ClickHouse · Elastic · Grafana · OpenTelemetry
+```
 
-## Offensive Specializations
+### How I Work
 
-* **Perimeter & App Recon:** high-signal discovery (domains, endpoints, hidden params, asset drift); parameter mutation; auth-z edge cases
-* **Exploit Research:** memory safety (UAF/overflow), deserialization chains, protocol confusions, authN bypass, SSRF→RCE escalations
-* **Red Team / APT Emulation:** realistic objectives, constrained blast-radius, purple-team loops with detection engineering
-* **Cloud Intrusions:** IAM misconfig chaining, metadata pivots, credential materialization, workload identity abuse, egress-safe exfil
-* **Evasion & OPSEC:** traffic shaping, domain/fronting, process/thread stealth, jitter budgets, sandbox/EDR friction reduction
-* **CI/CD & Supply‑Chain:** artifact poisoning, dependency confusion, cache/key leaks, runner isolation gaps, SLSA pressure-tests
-* 
-> See pinned repositories for living code and PoCs. Most offensive artifacts are responsibly redacted or sanitized.
-
-## Research Interests (2025)
-
-* HTTP/2 & QUIC state machine weirdness; request smuggling in modern proxies
-* Deserialization & schema evolution bugs in polyglot microservices
-* Cloud identity boundary erosion (OIDC, workload identity, token exchange)
-* Client‑side supply chain (WASM, NPM/Yarn/PyPI) under real‑world CI pressure
-
-## Tech Arsenal
-
-**Languages:** Python, Rust, Go, C, Bash, Lua (Luau), TypeScript/Node
-
-**Infra & Ops:** Linux, Docker, Kubernetes, Terraform, Cloudflare, GitHub Actions
-
-**Security:** Burp, mitmproxy, Frida, Ghidra, Radare2, pwntools, Z3, Semgrep, k6
-
-**Data & Telemetry:** ClickHouse, Elastic, Grafana, OpenTelemetry
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1F6FEB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-1F6FEB?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-1F6FEB?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-1F6FEB?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-1F6FEB?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1F6FEB?logo=nodedotjs&logoColor=white" />
-</p>
-
-## Engagement Model
-
-* **Scope:** I take clearly defined objectives with principled constraints and safety controls.
-* **Disclosure:** Responsible disclosure with coordinated remediation paths and actionable detection tips.
-* **Artifacts:** Reproducible PoCs, chain diagrams, and mitigation guidance written for engineers, not just reports.
-
-## Writing & Talks
-
-I write detailed, experiment‑first notes on exploit chains, cloud pivots, and OPSEC that engineers can reproduce. Short‑form: actionable checklists; long‑form: end‑to‑end deconstructions with code.
+All engagements follow clearly defined scope with safety controls. Findings go through responsible disclosure with coordinated remediation. Deliverables are reproducible PoCs, chain diagrams, and mitigation guidance written for engineers — not slide decks.
 
 ---
-
-## GitHub Aesthetics
 
 <div align="center">
 
-<!-- Stats -->
-
 <a href="https://github.com/m2hcz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m2hcz&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=m2hcz&show_icons=true&theme=github_dark&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/m2hcz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2hcz&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=m2hcz&theme=github-dark-blue&hide_border=true&background=00000000" />
 </a>
 
 <br/>
 
-<!-- Streak -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m2hcz&theme=github-compact&hide_border=true&bg_color=00000000" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=m2hcz&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<!-- Trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=m2hcz&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10" />
-
-<br/>
-
-<!-- Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m2hcz&theme=github-compact&hide_border=true" />
-
-<br/>
 </div>
-
----
-
-## Contact & Keys
-
-* **Email:** [m2hczs@proton.me](mailto:m2hczs@proton.me)
-* **X (Twitter):** @inf0secc
-* **GPG:** (share on request)
-
-## Availability
