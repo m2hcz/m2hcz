@@ -105,8 +105,8 @@ Three rules that don't change per engagement:
 
 <!-- This section carries more weight than any badge below — swap in 2-4 real advisories, CVEs, or writeups. -->
 
-- `[Advisory / CVE title]` — one line on the bug class and impact. [write-up →](#)
-- `[Advisory / CVE title]` — one line on the bug class and impact. [write-up →](#)
+- `CVE-2026-28740`
+- `CVE-2026-54094`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
